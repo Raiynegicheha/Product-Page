@@ -132,7 +132,7 @@ header{
  }
 
  #hero input[type='submit']:hover{
-   background-color: orange;
+   background-color: yellow;
    transition: background-color 1s;
  }
 
